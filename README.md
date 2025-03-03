@@ -25,15 +25,15 @@ In this video, we dive into descriptive statistics as the first step in understa
 ## Clone to Repository
 
 ```HTTP
-.........................
+git clone https://github.com/M3hrdad-Dehghan/Analyzing-Airline-Data-with-Python.git
 ```
 
 ```SSH
-.........................
+git@github.com:M3hrdad-Dehghan/Analyzing-Airline-Data-with-Python.git
 ```
 
-```CL
-.................................
+```CLI
+gh repo clone M3hrdad-Dehghan/Analyzing-Airline-Data-with-Python
 ```
 
 ## Contact
